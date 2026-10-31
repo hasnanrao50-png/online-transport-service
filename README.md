@@ -63,9 +63,9 @@ The initial focus of this project is Bhakkar, Pakistan.
 
 ## 6\. Project Status
 
-* \[ ] GitHub Repository Created
-* \[ ] Repository Cloned
-* \[ ] README Documentation Created
+* \[.] GitHub Repository Created
+* \[ .] Repository Cloned
+* \[ .] README Documentation Created
 * \[ ] Frontend Development
 * \[ ] Backend Development
 * \[ ] Database Integration
