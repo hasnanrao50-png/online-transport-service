@@ -78,7 +78,7 @@ The system will initially focus on Bhakkar city. Additional features and locatio
 
 ## 8\. Developer
 
-Student Final Year Project (FYP)
+Muhammad Hasnian Tahir 
 
 ## 9\. Future Improvements
 

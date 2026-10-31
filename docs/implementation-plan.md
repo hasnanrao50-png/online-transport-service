@@ -16,7 +16,7 @@ The main purpose of this project is to make local transportation easier, faster,
 - To improve the transportation experience in Bhakkar.
 - To provide an admin panel for managing users, drivers, and rides.
 
-## 2. Proposed Technology Stack
+## 2. Proposed Technology Stack 
 
 The following technologies and tools are proposed for developing the Online Transport Service:
 
